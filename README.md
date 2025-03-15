@@ -1,4 +1,4 @@
-Hello, I'm Ubaidullah, also known as @Obaid2773. I'm a passionate Full Stack Developer specializing in the MERN (MongoDB, Express.js, React, Node.js) stack. Currently, I work at CodeRoad Softwares, where we design and build tailor-made software solutions to optimize business processes and drive growth. 
+Hello, I'm Ubaidullah, (@Obaid2773). I'm a passionate Full Stack Developer specializing in the MERN (MongoDB, Express.js, React, Node.js) stack. Currently, I work at CodeRoad Softwares, where we design and build tailor-made software solutions to optimize business processes and drive growth. 
 CODEROAD.IN
 
 👀 I’m interested in exploring cutting-edge web technologies and contributing to open-source projects.
